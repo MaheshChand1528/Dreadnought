@@ -1,0 +1,20 @@
+.header{
+    background-color: #2433ff;
+    color: #e2cbda;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.header-a{
+    cursor: pointer;
+    color: #e2cbda;
+    text-decoration: none;
+}
+
+.header-a:hover{
+    text-decoration: underline;
+}

@@ -1,0 +1,22 @@
+.footer {
+  background-color: #2433ff;
+  color: white;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 30px 250px 20px 250px;
+}
+
+.f-div2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.f-div2 p{
+    width: 100px;
+    font-size: 14px;
+    margin: 15px 0px 15px 0px;
+    line-height: 1.3;
+}
